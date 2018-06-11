@@ -1,0 +1,40 @@
+C:\Users\Konrad\source\repos\projekt22\projekt22\bin\Debug\projekt22.exe.config
+C:\Users\Konrad\source\repos\projekt22\projekt22\bin\Debug\projekt22.exe
+C:\Users\Konrad\source\repos\projekt22\projekt22\bin\Debug\projekt22.pdb
+C:\Users\Konrad\source\repos\projekt22\projekt22\obj\Debug\projekt22.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\source\repos\projekt22\projekt22\obj\Debug\projekt22.Form1.resources
+C:\Users\Konrad\source\repos\projekt22\projekt22\obj\Debug\projekt22.Properties.Resources.resources
+C:\Users\Konrad\source\repos\projekt22\projekt22\obj\Debug\projekt22.csproj.GenerateResource.Cache
+C:\Users\Konrad\source\repos\projekt22\projekt22\obj\Debug\projekt22.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\projekt22\projekt22\obj\Debug\projekt22.exe
+C:\Users\Konrad\source\repos\projekt22\projekt22\obj\Debug\projekt22.pdb
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\bin\Debug\projekt22.exe.config
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\bin\Debug\projekt22.exe
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\bin\Debug\projekt22.pdb
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\obj\Debug\projekt22.Properties.Resources.resources
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\obj\Debug\projekt22.csproj.GenerateResource.Cache
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\obj\Debug\projekt22.csproj.CoreCompileInputs.cache
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\obj\Debug\projekt22.exe
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\obj\Debug\projekt22.pdb
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\obj\Debug\projekt22.csprojResolveAssemblyReference.cache
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22\projekt22\projekt22\obj\Debug\projekt22.btnWlaczenieSlajdera.resources
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\bin\Debug\projekt22.exe.config
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\bin\Debug\projekt22.exe
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\bin\Debug\projekt22.pdb
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\obj\Debug\projekt22.csprojResolveAssemblyReference.cache
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\obj\Debug\projekt22.btnWlaczenieSlajdera.resources
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\obj\Debug\projekt22.Properties.Resources.resources
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\obj\Debug\projekt22.csproj.GenerateResource.Cache
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\obj\Debug\projekt22.csproj.CoreCompileInputs.cache
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\obj\Debug\projekt22.exe
+C:\Users\biele\Desktop\VISTULA\ProgramowanieObiektowe\projekt22 ver 2\projekt22\projekt22\obj\Debug\projekt22.pdb
+C:\Users\grzeg\Desktop\projekt22\projekt22\bin\Debug\projekt22.exe.config
+C:\Users\grzeg\Desktop\projekt22\projekt22\bin\Debug\projekt22.exe
+C:\Users\grzeg\Desktop\projekt22\projekt22\bin\Debug\projekt22.pdb
+C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.csprojResolveAssemblyReference.cache
+C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.btnWlaczenieSlajdera.resources
+C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.Properties.Resources.resources
+C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.csproj.GenerateResource.Cache
+C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.exe
+C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.pdb
