@@ -8,3 +8,13 @@ C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\Projekt2sem2Grzegrzolka4679
 C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\Projekt2sem2Grzegrzolka46792.csproj.CoreCompileInputs.cache
 C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.exe
 C:\Users\grzeg\Desktop\projekt22\projekt22\obj\Debug\projekt22.pdb
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\bin\Debug\projekt22.exe.config
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\bin\Debug\projekt22.exe
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\bin\Debug\projekt22.pdb
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\obj\Debug\Projekt2sem2Grzegrzolka46792.csprojAssemblyReference.cache
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\obj\Debug\projekt22.btnWlaczenieSlajdera.resources
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\obj\Debug\projekt22.Properties.Resources.resources
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\obj\Debug\Projekt2sem2Grzegrzolka46792.csproj.GenerateResource.cache
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\obj\Debug\Projekt2sem2Grzegrzolka46792.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\obj\Debug\projekt22.exe
+C:\Users\grzeg\source\repos\Studia-Mini-Paint\Projekt2sem2Grzegrzółka46792\obj\Debug\projekt22.pdb
